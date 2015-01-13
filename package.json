@@ -1,0 +1,16 @@
+{
+  "name": "cryptowtf",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pbkdf2-sha256": "^1.1.0",
+    "node-forge": "^0.6.20",
+    "sjcl": "^1.0.1"
+  }
+}
